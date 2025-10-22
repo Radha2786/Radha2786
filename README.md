@@ -64,7 +64,9 @@
 [![@radha's Holopin board](https://holopin.me/radha)](https://holopin.io/@radha)
 
 ## Layer5 Badges:
-[![Hacktoberfest 2025 Contributor](https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png)](https://cloud.layer5.io/user/e68acaaf-14bb-405e-a5e8-3224f263ece9?tab=badges&badge=hacktoberfest25)
+ <a href="https://cloud.layer5.io/user/e68acaaf-14bb-405e-a5e8-3224f263ece9?tab=badges&badge=hacktoberfest25">
+    <img width="100px" height="100px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor"/>
+  </a>
 
 
 ## :computer: Mostly used Languages
