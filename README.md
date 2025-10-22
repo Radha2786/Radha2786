@@ -61,8 +61,9 @@
 
 <!-- <br/> -->
 <br/>
+
 ## Holopin Badges:
-[![@radha's Holopin board](https://holopin.me/radha)](https://holopin.io/@radha)
+[![@harsh_sharma_z's Holopin board](https://holopin.me/harsh_sharma_z)](https://holopin.io/@harsh_sharma_z)
 
 
 ## :computer: Mostly used Languages
