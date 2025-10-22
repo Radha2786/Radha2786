@@ -26,9 +26,7 @@
 
 - ⚡ Fun fact **I write code like I pack for trips—meticulous, efficient, and always with a touch of adventure!✈️💻**
 
-
-
-<br/>
+<!-- <br/> -->
 <br/>
 
 <h3 align="left">Connect with me:</h3>
@@ -64,6 +62,9 @@
 
 ## Holopin Badges:
 [![@radha's Holopin board](https://holopin.me/radha)](https://holopin.io/@radha)
+
+## Layer5 Badges:
+[![Hacktoberfest 2025 Contributor](https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png)](https://cloud.layer5.io/user/e68acaaf-14bb-405e-a5e8-3224f263ece9?tab=badges&badge=hacktoberfest25)
 
 
 ## :computer: Mostly used Languages
