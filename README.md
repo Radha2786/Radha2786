@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radha Sharma</h1>
 
 
-<h3 align="center">Hi there! I'm Radha Sharma, a passionate Software Developer from India. I love to learn through hands-on projects, blending creativity with technical expertise. In my free time, I enjoy exploring new technologies, narrating stories, reading books, and solving challenges in Data Structures and Algorithms.</h3>
+<h3 align="center"> A passionate Software Developer from India. I love to learn through hands-on projects, blending creativity with technical expertise. In my free time, I enjoy exploring new technologies, narrating stories, writing, reading books, and solving challenges in Data Structures and Algorithms.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radha2786&label=Profile%20views&color=0e75b6&style=flat" alt="radha2786" /> </p>
@@ -18,11 +18,11 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@radha2786](https://hashnode.com/@radha2786)
 
-- 💬 Ask me about **ReactJs, Node/ExpressJs, NextJS**
+- 💬 Ask me about **ReactJS, Node/ExpressJS, Springboot, NextJS**
 
 - 📫 How to reach me **radhasharma2786@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ySclFcbtyPsOo0GxVfh259lCGKlMrto2/view?usp=sharing](https://drive.google.com/file/d/1ySclFcbtyPsOo0GxVfh259lCGKlMrto2/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ySclFcbtyPsOo0GxVfh259lCGKlMrto2/view?usp=sharing](https://drive.google.com/file/d/1y_cYhr2RMV_Xu4BhJ_T-mFi-2V6VQFU-/view?usp=sharing)
 
 - ⚡ Fun fact **I write code like I pack for trips—meticulous, efficient, and always with a touch of adventure!✈️💻**
 
