@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Radha Sharma</h1>
 
 
@@ -28,14 +26,10 @@
 
 - ⚡ Fun fact **I write code like I pack for trips—meticulous, efficient, and always with a touch of adventure!✈️💻**
 
-  
+
 
 <br/>
 <br/>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,8 +61,9 @@
 
 <!-- <br/> -->
 <br/>
-## Holopin Badges
-[![An image of @radha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radha)](https://holopin.io/@radha)
+## Holopin Badges:
+[![@radha's Holopin board](https://holopin.me/radha)](https://holopin.io/@radha)
+
 
 ## :computer: Mostly used Languages
 
