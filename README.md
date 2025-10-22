@@ -65,8 +65,10 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="60px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="65px"></img>
 
+<!-- <br/> -->
 <br/>
-<br/>
+## Holopin Badges
+[![An image of @radha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radha)](https://holopin.io/@radha)
 
 ## :computer: Mostly used Languages
 
