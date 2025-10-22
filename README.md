@@ -65,7 +65,7 @@
 
 ## Layer5 Badges:
  <a href="https://cloud.layer5.io/user/e68acaaf-14bb-405e-a5e8-3224f263ece9?tab=badges&badge=hacktoberfest25">
-    <img width="100px" height="100px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor"/>
+    <img width="100px" height="120px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor"/>
   </a>
 
 
